@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+span {
+  color: #616e7c;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-width: 0px;
+  padding: 10px;
+}

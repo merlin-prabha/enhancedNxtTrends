@@ -1,0 +1,53 @@
+.popup-container {
+  font-family: 'Roboto';
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.successful {
+  font-size: 30px;
+  color: teal;
+}
+.success-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.payment-options {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.payment {
+  list-style-type: none;
+}
+.label {
+  font-size: 20px;
+  font-weight: 500;
+}
+.disabled {
+  font-size: 20px;
+  color: #c3baba;
+  font-weight: 500;
+}
+.heading {
+  font-size: 30px;
+  font-weight: 500;
+}
+.pay-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+.order-details {
+  margin-top: 50px;
+}
+.confirm-btn {
+  color: #ffffff;
+  background-color: rgba(0, 128, 0, 0.667);
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+}
